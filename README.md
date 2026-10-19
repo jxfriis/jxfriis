@@ -1,4 +1,4 @@
-<p><img src="./assets/sakura-panda-tennis.png" width="100%" alt="jxfriis. A colorful 16-bit landscape with pink sakura trees, vivid green grass, and two pandas playing tennis." /></p>
+<p><img src="./assets/sakura-rally.gif" width="100%" alt="jxfriis. An animated 16-bit tennis rally with pink sakura trees, vivid green grass, and two pandas playing tennis." /></p>
 
 <p align="center">
 <a href="https://github.com/jxfriis?tab=repositories">Browse repositories</a>
@@ -10,14 +10,14 @@
 <a href="https://jxfriis.github.io/oliver-exe/">OLIVER.EXE</a>
 </p>
 
-<img src="./assets/sakura-petals.svg" width="100%" alt="" />
 
-<a href="https://getflowline.site"><img src="./assets/sakura-flowline.svg" width="100%" alt="Flowline. Project boards, timelines and calendars for Windows. Local files. No account required." /></a>
 
-<a href="https://codexbuddy.vercel.app/"><img src="./assets/sakura-codexbuddy.svg" width="100%" alt="CodexBuddy. Codex usage and reset countdowns. A small companion for Windows." /></a>
+<a href="https://getflowline.site"><img src="./assets/garden-flowline.svg" width="100%" alt="Flowline. Project boards, timelines and calendars for Windows. Local files. No account required." /></a>
 
-<a href="https://jxfriis.github.io/oliver-exe/"><img src="./assets/sakura-oliver.svg" width="100%" alt="OLIVER.EXE. Mini-games, dress-up and a 16-bit mode. React and TypeScript." /></a>
+<a href="https://codexbuddy.vercel.app/"><img src="./assets/garden-codexbuddy.svg" width="100%" alt="CodexBuddy. Codex usage and reset countdowns. A small companion for Windows." /></a>
 
-<img src="./assets/sakura-petals.svg" width="100%" alt="" />
+<a href="https://jxfriis.github.io/oliver-exe/"><img src="./assets/garden-oliver.svg" width="100%" alt="OLIVER.EXE. Mini-games, dress-up and a 16-bit mode. React and TypeScript." /></a>
 
-<img src="./assets/sakura-toolkit.svg" width="100%" alt="TypeScript, React, Next.js, Vite and Tailwind CSS." />
+
+
+<img src="./assets/garden-toolkit.svg" width="100%" alt="TypeScript, React, Next.js, Vite and Tailwind CSS." />
