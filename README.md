@@ -1,21 +1,23 @@
-<p><img src="./assets/editorial-hero.svg" width="100%" alt="jxfriis. Windows apps and web experiments. Denmark." /></p>
+<p><img src="./assets/sakura-panda-tennis.png" width="100%" alt="jxfriis. A colorful 16-bit landscape with pink sakura trees, vivid green grass, and two pandas playing tennis." /></p>
 
-<p>
+<p align="center">
 <a href="https://github.com/jxfriis?tab=repositories">Browse repositories</a>
 &nbsp; · &nbsp;
-<a href="https://getflowline.site">Download Flowline</a>
+<a href="https://getflowline.site">Flowline</a>
 &nbsp; · &nbsp;
-<a href="https://codexbuddy.vercel.app/">Get CodexBuddy</a>
+<a href="https://codexbuddy.vercel.app/">CodexBuddy</a>
+&nbsp; · &nbsp;
+<a href="https://jxfriis.github.io/oliver-exe/">OLIVER.EXE</a>
 </p>
 
-<br>
+<img src="./assets/sakura-petals.svg" width="100%" alt="" />
 
-<a href="https://getflowline.site"><img src="./assets/project-flowline.svg" width="100%" alt="Flowline: project boards, timelines and calendars for Windows. Local files. No account required. Open the Flowline website." /></a>
+<a href="https://getflowline.site"><img src="./assets/sakura-flowline.svg" width="100%" alt="Flowline. Project boards, timelines and calendars for Windows. Local files. No account required." /></a>
 
-<a href="https://codexbuddy.vercel.app/"><img src="./assets/project-codexbuddy.svg" width="100%" alt="CodexBuddy: Codex usage and reset countdowns in a small Windows desktop companion. Open the CodexBuddy website." /></a>
+<a href="https://codexbuddy.vercel.app/"><img src="./assets/sakura-codexbuddy.svg" width="100%" alt="CodexBuddy. Codex usage and reset countdowns. A small companion for Windows." /></a>
 
-<a href="https://jxfriis.github.io/oliver-exe/"><img src="./assets/project-oliver.svg" width="100%" alt="OLIVER.EXE: mini-games, dress-up and a 16-bit mode. React and TypeScript. Open the live playground." /></a>
+<a href="https://jxfriis.github.io/oliver-exe/"><img src="./assets/sakura-oliver.svg" width="100%" alt="OLIVER.EXE. Mini-games, dress-up and a 16-bit mode. React and TypeScript." /></a>
 
-<br>
+<img src="./assets/sakura-petals.svg" width="100%" alt="" />
 
-<img src="./assets/editorial-footer.svg" width="100%" alt="TypeScript, React, Next.js, Vite, Tailwind CSS. github.com/jxfriis." />
+<img src="./assets/sakura-toolkit.svg" width="100%" alt="TypeScript, React, Next.js, Vite and Tailwind CSS." />
