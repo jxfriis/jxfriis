@@ -1,40 +1,36 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="JXFRIIS — independent builder. Ideas into things." />
+  <img src="./assets/header.svg" width="100%" alt="JXFRIIS. Building what's next. Apps, tools, experiments. Independent builder, DK." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/jxfriis?tab=repositories">Explore my work ↗</a>
+  <a href="https://github.com/jxfriis?tab=repositories">EXPLORE MY WORK ↗</a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://getflowline.site">Flowline ↗</a>
+  <a href="https://getflowline.site">FLOWLINE ↗</a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://codexbuddy.vercel.app/">CodexBuddy ↗</a>
+  <a href="https://codexbuddy.vercel.app/">CODEXBUDDY ↗</a>
 </p>
 
 <br>
 
-### Small details. Real projects.
-
-I build apps, tools, and experiments—from desktop companions to interactive web playgrounds.
-This is where the ideas turn into something you can use.
-
-<br>
-
-### Selected work
-
-| Project | The idea |
-| :--- | :--- |
-| **[Flowline ↗](https://getflowline.site)** | A Windows app. [Releases & downloads](https://github.com/jxfriis/flowline-releases). |
-| **[CodexBuddy ↗](https://github.com/jxfriis/codexbuddy-releases)** | A compact Windows companion that keeps Codex usage and reset countdowns in view. |
-| **[OLIVER.EXE ↗](https://github.com/jxfriis/oliver-exe)** | An interactive playground with mini-games, character customization, and a 16-bit mode. |
+<p align="center">
+  I build apps, tools, and interactive experiments.<br>
+  <strong>From “what if” to something you can actually use.</strong>
+</p>
 
 <br>
 
-### In the toolkit
-
-`TypeScript` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Vite` &nbsp; `Tailwind CSS`
+<p>
+  <a href="https://getflowline.site"><img src="./assets/flowline.svg" width="32%" alt="Flowline — a Windows app. View the project." /></a>
+  <a href="https://github.com/jxfriis/codexbuddy-releases"><img src="./assets/codexbuddy.svg" width="32%" alt="CodexBuddy — a Windows desktop companion for Codex usage and reset countdowns." /></a>
+  <a href="https://github.com/jxfriis/oliver-exe"><img src="./assets/oliver.svg" width="32%" alt="OLIVER.EXE — an interactive React playground with mini-games and a 16-bit mode." /></a>
+</p>
 
 <br>
 
----
+<p>
+  <img src="./assets/toolkit.svg" width="100%" alt="The toolkit: TypeScript, React, Next.js, Vite, Tailwind CSS." />
+</p>
 
-<p align="center"><sub>LESS NOISE. MORE BUILDING.</sub></p>
+<br>
+
+<a href="https://github.com/jxfriis?tab=repositories"><img src="./assets/footer.svg" width="100%" alt="Less noise. More building. Keep exploring." /></a>
