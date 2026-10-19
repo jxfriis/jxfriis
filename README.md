@@ -1,4 +1,4 @@
-<p><img src="./assets/sakura-rally.gif" width="100%" alt="jxfriis. An animated 16-bit tennis rally with pink sakura trees, vivid green grass, and two pandas playing tennis." /></p>
+<p><img src="./assets/sakura-panda-tennis.png" width="100%" alt="jxfriis. A colorful 16-bit landscape with pink sakura trees, vivid green grass, and two pandas playing tennis." /></p>
 
 <p align="center">
 <a href="https://github.com/jxfriis?tab=repositories">Browse repositories</a>
