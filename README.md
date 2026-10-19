@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg?v=2" width="100%" alt="JXFRIIS. Building what's next. Apps, tools, experiments. Independent builder, DK." />
+  <img src="./assets/hero-blue.svg" width="100%" alt="JXFRIIS. Building what's next. Apps, tools, experiments. Independent builder, DK." />
 </p>
 
 <p align="center">
