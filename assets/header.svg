@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">JXFRIIS — ideas into things.</title><desc id="desc">A black and white banner with large typography and a slowly rotating orbital sculpture.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern><linearGradient id="fade"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="380" rx="16" fill="#090909"/><rect width="1200" height="380" rx="16" fill="url(#grid)"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#fff">
+<text x="48" y="48" font-size="12" letter-spacing="4" fill="#a1a1a1">INDEPENDENT BUILDER / DK</text>
+<text x="42" y="196" font-size="126" font-weight="800" letter-spacing="-8">JXFRIIS<tspan fill="#777">.</tspan></text>
+<text x="48" y="249" font-size="25" letter-spacing="-.5" fill="#d4d4d4">ideas into things.</text>
+<path d="M48 295H1152" stroke="#333"/>
+<text x="48" y="334" font-size="12" letter-spacing="3" fill="#a1a1a1">BUILD. REFINE. SHIP. REPEAT.</text>
+<text x="1152" y="334" text-anchor="end" font-size="12" letter-spacing="2" fill="#a1a1a1">ALWAYS IN PROGRESS ↗</text>
+</g>
+<g transform="translate(1000 167)" fill="none" stroke="#fff" stroke-width="1">
+<circle r="98" stroke-opacity=".4"/><ellipse rx="98" ry="34" stroke-opacity=".65" transform="rotate(-35)"/><ellipse rx="98" ry="65" stroke-opacity=".28" transform="rotate(55)"/>
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/><ellipse rx="35" ry="98" stroke-opacity=".7" transform="rotate(25)"/><circle cx="98" r="4" fill="#fff" stroke="none"/></g>
+<path d="M-119 0H119M0-119V119" stroke-opacity=".13"/><circle r="5" fill="#fff" stroke="none"/>
+</g><rect x="48" y="294" width="130" height="2" fill="url(#fade)"><animate attributeName="x" values="48;1022;48" dur="12s" repeatCount="indefinite"/></rect>
+</svg>
