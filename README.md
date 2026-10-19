@@ -14,7 +14,7 @@
 
 <a href="https://codexbuddy.vercel.app/"><img src="./assets/project-codexbuddy.svg" width="100%" alt="CodexBuddy: Codex usage and reset countdowns in a small Windows desktop companion. Open the CodexBuddy website." /></a>
 
-<a href="https://github.com/jxfriis/oliver-exe"><img src="./assets/project-oliver.svg" width="100%" alt="OLIVER.EXE: mini-games, dress-up and a 16-bit mode. React and TypeScript. View the repository." /></a>
+<a href="https://jxfriis.github.io/oliver-exe/"><img src="./assets/project-oliver.svg" width="100%" alt="OLIVER.EXE: mini-games, dress-up and a 16-bit mode. React and TypeScript. Open the live playground." /></a>
 
 <br>
 
