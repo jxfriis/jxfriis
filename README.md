@@ -5,6 +5,8 @@
 &nbsp; · &nbsp;
 <a href="https://getflowline.site">Flowline</a>
 &nbsp; · &nbsp;
+<a href="https://superfocused.vercel.app/">Superfocused</a>
+&nbsp; · &nbsp;
 <a href="https://codexbuddy.vercel.app/">CodexBuddy</a>
 &nbsp; · &nbsp;
 <a href="https://jxfriis.github.io/oliver-exe/">OLIVER.EXE</a>
@@ -13,6 +15,8 @@
 
 
 <a href="https://getflowline.site"><img src="./assets/garden-flowline.svg" width="100%" alt="Flowline. Project boards, timelines and calendars for Windows. Local files. No account required." /></a>
+
+<a href="https://superfocused.vercel.app/"><img src="./assets/garden-superfocused.svg" width="100%" alt="Superfocused. Calm focus sessions, music and ambient backgrounds. Pomodoro, notes and a live focus count. Web and Windows." /></a>
 
 <a href="https://codexbuddy.vercel.app/"><img src="./assets/garden-codexbuddy.svg" width="100%" alt="CodexBuddy. Codex usage and reset countdowns. A small companion for Windows." /></a>
 
